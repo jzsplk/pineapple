@@ -1,3 +1,4 @@
 fn main() {
-    println!("Hello, world!");
+    let a: u32 = 12; 
+    println!("Hello, world! {}", a);
 }
